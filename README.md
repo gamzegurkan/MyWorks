@@ -4,7 +4,7 @@ Bu proje, federated learning teknikleri kullanarak pirinç yaprağı hastalıkla
 
 Çalışmada, pirinç yaprağı hastalıklarını sınıflandırmak için kullanılan veri seti çeşitli görüntü işleme teknikleriyle ön işlenmiştir<br>
 
-Precision (Kesinlik) 
+##Precision (Kesinlik) 
 
 Çalışmamda elde edilen kesinlik değerleri, makalede belirtilen değerlerle uyumludur ve bazı epoch'larda (örneğin 40. ve 80. epoch'larda) makale değerlerinden daha yüksek sonuçlar göstermektedir. Bu durum, çalışmamın doğruluk açısından oldukça etkili olduğunu ortaya koymaktadır. 
 
