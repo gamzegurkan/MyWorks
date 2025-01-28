@@ -23,3 +23,5 @@ Bu çalışmanın MSE değerleri, makalede belirtilen değerlerle uyumludur ve b
 ## RMSE (Kök Ortalama Kare Hatası)
 
 RMSE değerleri de benzer şekilde makale ile uyumludur. İlk epoch'ta biraz daha yüksek olsa da, sonraki epoch'larda makale ile uyumlu sonuçlar vermektedir.
+## Dataset URL:
+https://drive.google.com/drive/folders/1kcpAw__i6ZjpqftEchWIpXOH2uU_ij-k?usp=drive_link
